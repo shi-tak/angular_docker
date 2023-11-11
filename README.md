@@ -1,5 +1,7 @@
 # Angular + Docker 環境開発用 
 
+環境の構築手順は[こちら](https://qiita.com/shi-tak/items/5dce7932dd081ecb89d4)の記事を参照されたし。
+
 ## 使い方
 
 ### サイトの立ち上げ
